@@ -39,7 +39,7 @@ git clone https://github.com/jcgomezrj/LlanquihueTour.git
 
 2. Abre el proyecto en IntelliJ IDEA.
 
-3. Ejecuta el archivo `Main.java` desde el paquete `app`.
+3. Ejecuta el archivo `src/main/java/cl/llanquihuetour/erp/app/Main.java` desde el paquete `app`.
 
 4. Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
 
