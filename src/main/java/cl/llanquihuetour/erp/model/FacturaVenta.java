@@ -39,9 +39,10 @@ public class FacturaVenta extends Dte {
 
     @Override
     public String toString() {
-        return "FacturaVenta{" +
-                "montoNeto=" + montoNeto +
-                ", rutReceptor=" + rutReceptor +
+        return super.toString() +
+                "\nFacturaVenta{" +
+                "\nmontoNeto=" + montoNeto +
+                "\nrutReceptor=" + rutReceptor +
                 '}';
     }
 }

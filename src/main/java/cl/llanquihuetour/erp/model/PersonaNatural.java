@@ -104,14 +104,14 @@ public class PersonaNatural {
 
     @Override
     public String toString() {
-        return "PersonaNatural{" +
+        return "PersonaNatural{\n" +
                 "nombres='" + nombres + '\'' +
-                ", apellidos='" + apellidos + '\'' +
-                ", fechaNacimiento=" + fechaNacimiento +
-                ", rut=" + rut +
-                ", correo='" + correo + '\'' +
-                ", telefono='" + telefono + '\'' +
-                ", direccion=" + direccion +
+                "\napellidos='" + apellidos + '\'' +
+                "\nfechaNacimiento=" + fechaNacimiento +
+                "\nrut=" + rut +
+                "\ncorreo='" + correo + '\'' +
+                "\ntelefono='" + telefono + '\'' +
+                "\ndireccion=" + direccion +
                 '}';
     }
 }

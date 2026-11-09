@@ -62,10 +62,10 @@ public class Dte {
     @Override
     public String toString() {
         return "Dte{" +
-                "fechaEmision=" + fechaEmision +
-                ", tipoSii=" + tipoSii +
-                ", rutEmisor=" + rutEmisor +
-                ", folio='" + folio + '\'' +
+                "\nfechaEmision=" + fechaEmision +
+                "\ntipoSii=" + tipoSii +
+                "\nrutEmisor=" + rutEmisor +
+                "\nfolio='" + folio + '\'' +
                 '}';
     }
 }

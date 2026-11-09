@@ -42,9 +42,6 @@ public class Rut {
 
     @Override
     public String toString() {
-        return "Rut{" +
-                "cuerpo=" + cuerpo +
-                ", verificador=" + verificador +
-                '}';
+        return "Rut: " + cuerpo + '-' + verificador;
     }
 }
