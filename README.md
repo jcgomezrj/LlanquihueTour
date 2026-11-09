@@ -10,9 +10,10 @@
 ---
 
 ## 📘 Descripción general del sistema
-Este proyecto corresponde a la Actividad Sumativa 1 de la asignatura *Desarrollo Orientado a Objetos I*.
+Este proyecto LlanquihueTour corresponde a la Actividad Sumativa 1 de la asignatura *Desarrollo Orientado a Objetos I*.
 Se trata de un sistema orientado a objetos desarrollado en Java, cuyo objetivo es crear distintas clases
-con relaciones de composición y herencia entre ellas, además de crear objetos demostrando su uso.
+con relaciones de composición y herencia entre ellas, además de crear objetos demostrando su uso. Todo esto en el
+contexto de una empresa ficticia de turismo.
 
 De manera adicional, agregué diversos métodos validadores que arrojan excepciones y también javadoc
 en las clases.
